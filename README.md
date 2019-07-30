@@ -1,8 +1,8 @@
 # Resources
 A collection of papers, books, blog posts that I have used or want to use academically 
 
-  - [Mathematics]()
+  - [Mathematics](https://github.com/drydenwiebe/resources/blob/master/Mathematics.md)
   - [Statistics](https://github.com/drydenwiebe/resources/blob/master/Statistics.md)
-  - [Computer Science]()
-  - [Software Engineering]()
-  - [Electrical Engineering]()
+  - [Computer Science](https://github.com/drydenwiebe/resources/blob/master/Computer%20Science.md)
+  - [Software Engineering](https://github.com/drydenwiebe/resources/blob/master/Software%20Engineering.md)
+  - [Electrical Engineering](https://github.com/drydenwiebe/resources/blob/master/Electrical%20Engineering.md)
