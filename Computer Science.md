@@ -7,3 +7,7 @@
 ## Machine Learning
 
   - [X] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
+## Operating Systems
+
+  - [X] [NUMA (Non-Uniform Memory Access): An Overview](https://queue.acm.org/detail.cfm?id=2513149)
