@@ -11,3 +11,4 @@
 ## Operating Systems
 
   - [X] [NUMA (Non-Uniform Memory Access): An Overview](https://queue.acm.org/detail.cfm?id=2513149)
+  - [X] [Traffic Management: A Holistic Approach to Memory Placement on NUMA Systems](http://www.ece.ubc.ca/~sasha/papers/asplos284-dashti.pdf)
