@@ -6,6 +6,8 @@
 
 ## Machine Learning
 
+  - [X] [Cuttlefish: A Lightweight Primitive for Adaptive Query Processing](https://arxiv.org/pdf/1802.09180.pdf)
+  - [ ] [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
   - [X] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 
 ## Operating Systems
