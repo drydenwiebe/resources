@@ -18,4 +18,4 @@
 
 ## Programming
 
-  - [X] [Leaern Rust With Entireley Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html#learn-rust-with-entirely-too-many-linked-lists)
+  - [ ] [Learn Rust With Entirley Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
