@@ -15,3 +15,7 @@
   - [X] [NUMA (Non-Uniform Memory Access): An Overview](https://queue.acm.org/detail.cfm?id=2513149)
   - [X] [NUMA-aware algorithms: the case of data shuffling): An Overview](http://cidrdb.org/cidr2013/Papers/CIDR13_Paper121.pdf)
   - [X] [Traffic Management: A Holistic Approach to Memory Placement on NUMA Systems](http://www.ece.ubc.ca/~sasha/papers/asplos284-dashti.pdf)
+
+## Programming
+
+  - [X] [Leaern Rust With Entireley Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html#learn-rust-with-entirely-too-many-linked-lists)
