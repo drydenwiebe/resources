@@ -29,3 +29,7 @@
 ## Programming
 
   - [ ] [Learn Rust With Entirley Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+
+## Theoretical Computer Science 
+
+  - [ ] [On computable numbers, with an application to the Entscheidungsproblem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf)
