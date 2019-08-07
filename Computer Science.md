@@ -7,6 +7,7 @@
 ## Machine Learning
 
   - [X] [Cuttlefish: A Lightweight Primitive for Adaptive Query Processing](https://arxiv.org/pdf/1802.09180.pdf)
+  - [ ] [Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of “Outlier” Detectors](https://arxiv.org/pdf/1809.04729.pdf)
   - [ ] [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
   - [X] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
   - [ ] [An Introduction to MCMC for Machine Learning](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf)
