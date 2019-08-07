@@ -12,6 +12,7 @@
   - [ ] [An Introduction to MCMC for Machine Learning](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf)
   - [X] [Multi-armed Bandit Algorithms and Empirical Evaluation](https://link.springer.com/content/pdf/10.1007/11564096_42.pdf)
   - [X] [One Pass Data Science In Apache Spark With Generative T Digests](https://www.youtube.com/watch?v=uKx5mTX4v3s)
+  - [ ] [UBC Machine Learning Reading Group](https://www.cs.ubc.ca/labs/lci/mlrg/)  
   
 ## Operating Systems
 
