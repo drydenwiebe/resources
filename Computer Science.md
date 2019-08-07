@@ -11,7 +11,8 @@
   - [X] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
   - [ ] [An Introduction to MCMC for Machine Learning](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf)
   - [X] [Multi-armed Bandit Algorithms and Empirical Evaluation](https://link.springer.com/content/pdf/10.1007/11564096_42.pdf)
-
+  - [X] [One Pass Data Science In Apache Spark With Generative T Digests](https://www.youtube.com/watch?v=uKx5mTX4v3s)
+  
 ## Operating Systems
 
   - [X] [NUMA (Non-Uniform Memory Access): An Overview](https://queue.acm.org/detail.cfm?id=2513149)
