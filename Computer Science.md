@@ -7,6 +7,7 @@
 ## Deep Learning
 
   - [X] [Deep Learning](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+  - [ ] [Deep Learning (Textbook)](  http://www.deeplearningbook.org/)
   - [ ] [Deep Learning Papers Reading Roadmap](  https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## Distributed Systems
