@@ -12,8 +12,9 @@
 
   - [X] [Deep Learning](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
   - [ ] [Deep Learning (Textbook)](  http://www.deeplearningbook.org/)
-  - [ ] [Deep Learning Papers Reading Roadmap](  https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-
+  - [ ] [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+  - [ ] [MURA: Large Dataset for Abnormality Detection in Musculoskeletal Radiographs](https://arxiv.org/pdf/1712.06957.pdf)
+  
 ## Distributed Systems
 
   - [X] [Dask](https://conference.scipy.org/proceedings/scipy2015/pdfs/matthew_rocklin.pdf)
