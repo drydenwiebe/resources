@@ -1,5 +1,5 @@
 # Statistics
-
+  
 ## Statistical Methods
 
   - [x] [Computing Extremely Accurate Quantiles Using t-Digests](https://github.com/tdunning/t-digest/blob/master/docs/t-digest-paper/histo.pdf)
@@ -8,3 +8,4 @@
 ## Stochastic Processes
 
   - [ ] [Essentials of Stochastic Processes](https://services.math.duke.edu/~rtd/EOSP/EOSP2E.pdf)
+  - [ ] [Lecture Notes on Probability Theory and Random Processes](https://people.eecs.berkeley.edu/~wlr/126notes.pdf)
