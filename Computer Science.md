@@ -1,12 +1,12 @@
 # Computer Science
 
-## Algorithims
-
-  - [ ] [Network Applications of Bloom Filters: A Survey](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=6CA79DD1A90B3EFD3D62ACE5523B99E7?doi=10.1.1.127.9672&rep=rep1&type=pdf)
-
 ## Computer Vision
 
   - [ ] [Robust Real-time Object Detection](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-IJCV-01.pdf)
+
+## Data Structures 
+
+  - [ ] [Probabilistic Data Structures for Priority Queues](https://pdfs.semanticscholar.org/0d25/5c7602d1e0668f1a093ffc8c4aabeb2ff860.pdf?_ga=2.261945423.379621384.1565705775-463241797.1565103044)
 
 ## Deep Learning
 
