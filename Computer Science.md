@@ -42,4 +42,5 @@
 
 ## Theoretical Computer Science 
 
+  - [ ] [Computation: Finite And Infinite Machines](https://github.com/media-lib/science_lib/raw/master/books/Computation_Finite_And_Infinite_Machines_by_Marvin_Minksy.pdf)
   - [ ] [On computable numbers, with an application to the Entscheidungsproblem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf)
